@@ -1,2 +1,8 @@
 ![Netflix](https://github.com/PrathamSharma16/TableauProject/assets/110150708/041b2c7e-b3e2-4f8e-9383-00dc79d943b9)
 ![NetflixDashboard](https://github.com/PrathamSharma16/TableauProject/assets/110150708/ead95730-768f-42f1-839a-ef9f11a14267)
+![MoviesAndShows](https://github.com/PrathamSharma16/TableauProject/assets/110150708/74e3d416-e975-4fc7-98ee-7461f5954bf5)
+![Country](https://github.com/PrathamSharma16/TableauProject/assets/110150708/ca387e81-d8fa-415b-81ce-17344004d61b)
+![Genre](https://github.com/PrathamSharma16/TableauProject/assets/110150708/e4edb0ad-e670-4ce4-9e11-d7af74207493)
+![Distribution](https://github.com/PrathamSharma16/TableauProject/assets/110150708/7080888e-eb21-453c-91d7-745e38ca58f0)
+![Ratings](https://github.com/PrathamSharma16/TableauProject/assets/110150708/fb07442c-2979-4ad3-8426-c5a1b2091306)
+![Description](https://github.com/PrathamSharma16/TableauProject/assets/110150708/126b6c3d-9c6d-4083-b8d2-9b748dd28256)
